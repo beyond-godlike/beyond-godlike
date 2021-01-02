@@ -1,4 +1,4 @@
-![Header](https://github.com/beyond-godlike/beyond-godlike/blob/main/header.jpg)
+![Header](https://github.com/beyond-godlike/beyond-godlike/blob/main/header.png)
 
 ### Languages and tools
 
