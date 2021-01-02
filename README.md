@@ -3,6 +3,7 @@
 ### Languages and tools
 
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=47C5FB)
+![Dart](https://img.shields.io/badge/Dart-blue?style=flat-square&logo=flutter&logoColor=097CDB)
 
 <!--
 **beyond-godlike/beyond-godlike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
