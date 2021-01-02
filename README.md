@@ -1,7 +1,5 @@
 ![Header](https://github.com/beyond-godlike/beyond-godlike/blob/main/header.jpg)
 
-# Hi there 👋
-
 ### Languages and tools
 
 [![Java](https://img.shields.io/badge/Java-000051?style=flat-square&logo=java&)](https://www.java.com)
