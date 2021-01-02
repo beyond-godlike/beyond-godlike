@@ -6,7 +6,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-000051?style=flat-square&logo=kotlin&logoColor=47C5FB)
 ![Flutter](https://img.shields.io/badge/Flutter-000051?style=flat-square&logo=flutter&logoColor=47C5FB)
 ![Dart](https://img.shields.io/badge/Dart-000051?style=flat-square&logo=Dart&logoColor=097CDB)
-![C++](https://img.shields.io/badge/-C %b2%2b-000051?style=flat-square&logo=C++&logoColor=090909)
+![C++](https://img.shields.io/badge/-C++-000051?style=flat-square&logo=C%b2%2b)
 ![Qt](https://img.shields.io/badge/Qt-000051?style=flat-square&logo=Qt)
 
 <!--
