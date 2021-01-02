@@ -2,8 +2,12 @@
 
 ### Languages and tools
 
+![Java](https://img.shields.io/badge/Java-000051?style=flat-square&logo=java&)
+![Kotlin](https://img.shields.io/badge/Kotlin-000051?style=flat-square&logo=kotlin&logoColor=47C5FB)
 ![Flutter](https://img.shields.io/badge/Flutter-000051?style=flat-square&logo=flutter&logoColor=47C5FB)
-![Dart](https://img.shields.io/badge/Dart-000051?style=flat-square&logo=flutter&logoColor=097CDB)
+![Dart](https://img.shields.io/badge/Dart-000051?style=flat-square&logo=Dart&logoColor=097CDB)
+![C++](https://img.shields.io/badge/C%b2%2b-000051?style=flat-square&logo=C++&logoColor=090909)
+![Qt](https://img.shields.io/badge/Qt-000051?style=flat-square&logo=Qt&logoColor=2e7d32)
 
 <!--
 **beyond-godlike/beyond-godlike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
