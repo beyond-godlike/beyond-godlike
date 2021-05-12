@@ -5,8 +5,6 @@
   [![Java](https://img.shields.io/badge/Java-818183?style=for-the-badge&logo=java&)](https://www.java.com)
   [![Kotlin](https://img.shields.io/badge/Kotlin-818183?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
   [![Firebase](https://img.shields.io/badge/Firebase-818183?style=for-the-badge&logo=Firebase)](https://firebase.google.com/)
-  [![Flutter](https://img.shields.io/badge/Flutter-818183?style=for-the-badge&logo=flutter&logoColor=47C5FB)](https://flutter.dev/)
-  [![Dart](https://img.shields.io/badge/Dart-818183?style=for-the-badge&logo=Dart&logoColor=097CDB)](https://dart.dev/)
   [![C++](https://img.shields.io/badge/-C++-818183?style=for-the-badge&logo=c%2B%2B)](https://www.qt.io/)
   [![Qt](https://img.shields.io/badge/Qt-818183?style=for-the-badge&logo=Qt)](https://www.cplusplus.com/)
 
